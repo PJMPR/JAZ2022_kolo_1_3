@@ -6,11 +6,11 @@ public class Main {
 
     }
 
-//    private static double getPriceOfJavaProductsCreatedIn2002(List<Book> books){
+//    private static double getPriceOfJavaProductsCreatedIn2002(List<Product> products){
 //        return 0;
 //    }
 
-//    private static void showNetProductsCreatedIn2001(List<Book> books){
+//    private static void showNetProductsCreatedIn2001(List<Product> products){
 //
 //    }
 }
